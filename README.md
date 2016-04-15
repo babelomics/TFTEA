@@ -2,7 +2,7 @@
 Transcription Factor Target Enrichment Analysis
 
 ### Documentation
-You can find BierApp documentation and tutorials at: https://github.com/babelomics/tftea/wiki.
+You can find TFTEA documentation and tutorials at: https://github.com/babelomics/tftea/wiki.
 
 ### Issue Tracking
 You can report bugs or request new features at [GitHub issue tracking](https://github.com/babelomics/tftea/issues).
@@ -13,4 +13,4 @@ Releases notes are available at [GitHub releases](https://github.com/babelomics/
 Roadmap is available at [GitHub milestones](https://github.com/babelomics/tftea/milestones). You can report bugs or request new features at [GitHub issue tracking](https://github.com/babelomics/bierapp/issues).
 
 ### Versioning
-BierApp is versioned following the rules from [Semantic versioning](http://semver.org/).
+TFTEA is versioned following the rules from [Semantic versioning](http://semver.org/).
